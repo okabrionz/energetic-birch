@@ -1,16 +1,17 @@
 ---
-title: Home
+title: 'Jasa Pemasangan Tenda Membrane, Atap Membrane, Canopy Membrane'
 sections:
   - actions:
-      - label: Learn More
-        url: /features
+      - label: Hubungi kami
+        url: /whatsapp
     component: hero_block.html
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Buang jauh-jauh keinginan Anda untuk mencari layanan murah. Karena, ada
+      harga ada kualitas. Kami menawarkan layanan dengan kualitas terbaik dan
+      karyawan profesional.
     image: /images/riverside.webp
     section_id: hero
-    title: This Is A Big Hero Headline
+    title: Jasa Pemasangan Tenda Membrane Profesional
     type: heroblock
   - bg: gray
     component: features_block.html
