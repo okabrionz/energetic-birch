@@ -6,9 +6,9 @@ sections:
         url: /whatsapp
     component: hero_block.html
     content: >-
-      Buang jauh-jauh keinginan Anda untuk mencari layanan murah. Karena, ada
-      harga ada kualitas. Kami menawarkan layanan dengan kualitas terbaik dan
-      karyawan profesional.
+      Buang jauh-jauh keinginan Anda untuk mencari layanan murah. Karena, **_ada
+      harga ada kualitas_**. Kami menawarkan jasa pemasangan tenda, atap, canopy
+      membrane dengan kualitas terbaik dan tenaga ahli di bidangnya.
     image: /images/bg-1home.svg
     section_id: hero
     title: Jasa Pemasangan Tenda Membrane Profesional
@@ -17,23 +17,23 @@ sections:
     component: features_block.html
     featureslist:
       - actions:
-          - label: Learn More
-            url: /features
+          - label: Pelajari lebih lanjut
+            url: /kualitas-bahan-tenda-membrane
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Demi memenuhi kebutuhan visual dan desain yang Anda serahkan, maka
+          kami sangat menjaga kualitas agar dapat menyajikannya secara nyata.
+          Dengan bahan Tenda membrane kualitas terbaik ini, maka kami akan lebih
+          bebas berkreativitas.
         image: /images/17.jpg
-        title: The Best Feature of Your Services
+        title: Kami Hanya Menggunakan Bahan Berkualitas Tinggi
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          kami memberikan garansi yang flexibel sesuai yang Anda mau. Berapa
+          lama pun akan kami layani.
         image: /images/21.jpg
-        title: Awesome Feature of Your Services
+        title: Garansi Flexibel
       - actions:
           - label: Learn More
             url: /features
@@ -43,11 +43,9 @@ sections:
           amet nec urna.
         image: /images/3x.jpg
         title: Cool Feature of Your Services
-    section_id: features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    title: Features
+    section_id: why
+    subtitle: Beberapa fakta yang perlu Anda ketahui
+    title: Mengapa Indo Membrane?
     type: featuresblock
   - bg: white
     component: reviews_block.html
