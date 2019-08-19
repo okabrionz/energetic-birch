@@ -9,7 +9,7 @@ sections:
       Buang jauh-jauh keinginan Anda untuk mencari layanan murah. Karena, ada
       harga ada kualitas. Kami menawarkan layanan dengan kualitas terbaik dan
       karyawan profesional.
-    image: /images/riverside.webp
+    image: /images/bg-1home.svg
     section_id: hero
     title: Jasa Pemasangan Tenda Membrane Profesional
     type: heroblock
