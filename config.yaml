@@ -18,11 +18,17 @@ params:
   header:
     has_nav: true
     logo_img: /images/logo.svg
-    title: Azimuth
+    title: Indo Membrane
     menu:
       actions:
         - label: Whatsapp
           url: /whatsapp
   palette: blue
+menu:
+  main:
+    - identifier: layanan
+      name: Layanan
+      url: /layanan
+      weight: 2
 disableKinds:
   - RSS
