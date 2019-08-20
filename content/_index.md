@@ -50,27 +50,25 @@ sections:
   - bg: white
     component: reviews_block.html
     reviews:
-      - author: John Doe
-        avatar: images/review1.jpg
+      - author: PT. Sumi Rubber Indonesia (Dunlop)
+        avatar: /images/dunlop-61x61.png
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/review2.jpg
+          Lahan yang kami pasang canopy tenda membrane sekarang jadi teduh
+          dengan desain yang memukau. Pekerjaan amat rapi dan profesional.
+      - author: PT. Siemens Indonesia
+        avatar: /images/siemens.png
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
-        avatar: images/review3.jpg
+          Kualitas bahan bangunan sangat memuaskan, waktu pengerjaan juga
+          relatif sangat cepat. Overall, kami puas menggunakan jasa indo
+          membrane. Terima kasih.
+      - author: PT. Roti Rachmat
+        avatar: /images/rr.png
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Sesuai imajinasi yang saya gambarkan, skala tepat dengan arsitektur
+          modern terbaru. Indah dipandang, aman dipakai. Hatur nuhun.
     section_id: reviews
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    title: Testimonials
+    subtitle: Dari beliau yang sudah bekerjasama dengan kami
+    title: Testimoni
     type: reviewsblock
   - actions:
       - label: Whatsapp
