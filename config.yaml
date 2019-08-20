@@ -25,10 +25,6 @@ params:
           url: /whatsapp
   palette: blue
 menu:
-  main:
-    - identifier: layanan
-      name: Layanan
-      url: /layanan
-      weight: 2
+  main: []
 disableKinds:
   - RSS
