@@ -6,8 +6,8 @@ subtitle: >-
   and styles for your content.
 menu:
   main:
-    name: Style Guide
-    weight: 3
+    name: ''
+    weight: ''
 layout: page
 ---
 
