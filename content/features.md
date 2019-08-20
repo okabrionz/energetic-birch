@@ -1,9 +1,12 @@
 ---
-title: Features
+title: Layanan
 sections:
-  - type: contentblock
-    section_id: features
-    title: The Best Features of Your Services
+  - actions:
+      - label: Whatsapp
+        url: /whatsapp
+      - label: Telpon
+        url: 'tel:+6281310001243'
+    bg: gray
     component: content_block.html
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
@@ -20,24 +23,22 @@ sections:
 
       Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
       sed justo tempor condimentum.
-    image: images/feature1.png
-    bg: gray
-    actions:
-      - label: Free Trial
-        url: /signup
-      - label: View Demo
-        url: '#'
-  - type: ctablock
-    section_id: call-to-action
-    title: This Is Call to Action Block!
-    component: cta_block.html
-    subtitle: This is an optional description for the call to action block.
-    actions:
+    image: /images/45.jpg
+    section_id: features
+    title: The Best Features of Your Services
+    type: contentblock
+  - actions:
       - label: Get Started
         url: '#'
+    component: cta_block.html
+    section_id: call-to-action
+    subtitle: This is an optional description for the call to action block.
+    title: This Is Call to Action Block!
+    type: ctablock
 menu:
   main:
-    name: Features
+    name: Layanan
     weight: 2
 layout: features
 ---
+
