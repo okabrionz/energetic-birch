@@ -30,19 +30,19 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          kami memberikan garansi yang flexibel sesuai yang Anda mau. Berapa
-          lama pun akan kami layani.
+          Kami memberikan garansi yang flexibel sesuai yang Anda mau max. 10
+          tahun sesuai garansi membrane.
         image: /images/21.jpg
         title: Garansi Flexibel
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Selain pemasangan membrane yang profesional, personil yang kami
+          kerahkan sangat cekatan dengan tujuan waktu penyelesaian yang lebih
+          singkat.
         image: /images/3x.jpg
-        title: Cool Feature of Your Services
+        title: Tenaga Ahli & Cekatan
     section_id: why
     subtitle: Beberapa fakta yang perlu Anda ketahui
     title: Mengapa Indo Membrane?
@@ -73,17 +73,19 @@ sections:
     title: Testimonials
     type: reviewsblock
   - actions:
-      - label: Get Started
-        url: /signup
+      - label: Whatsapp
+        url: /whatsapp
+      - label: Telpon Sekarang
+        url: 'tel:+6281310001243'
     component: cta_block.html
-    section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
+    section_id: cta
+    subtitle: Hubungi kami via Whatsapp atau telpon dengan tombol berikut.
+    title: Tunggu apa lagi? Sekarang giliran Anda.
     type: ctablock
   - bg: gray
     component: posts_block.html
     section_id: recent-posts
-    title: Latest Posts
+    title: Postingan terbaru
     type: postsblock
 menu:
   main:
