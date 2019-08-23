@@ -17,7 +17,7 @@ params:
       profesional dengan harga terjangkau.
   header:
     has_nav: true
-    logo_img: /images/logo.svg
+    logo_img: /images/kotak.svg
     title: Indo Membrane
     menu:
       actions:
