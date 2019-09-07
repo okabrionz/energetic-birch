@@ -6,5 +6,4 @@ menu:
     weight: 3
 layout: contact
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula.
+Jangan sungkan untuk menghubungi kami, silahkan untuk mengajukan kritik, saran, dan masukan kepada indomembrane.co.id secara langsung dan akan dibalas maksimal 1 hari kerja.
