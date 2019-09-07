@@ -6,8 +6,8 @@ subtitle: >-
 img_path: images/11.jpg
 menu:
   secondary:
-    name: Sign Up
-    weight: 1
+    name: ''
+    weight: ''
 layout: page
 ---
 
